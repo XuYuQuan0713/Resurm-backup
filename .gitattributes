@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+# eg: *.css linguist-language=python  将.css文件语言设置成python
+*.tex linguist-language=TeX
+
